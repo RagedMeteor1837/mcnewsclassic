@@ -8,6 +8,6 @@ One cool feature about the new launcher you might want to know about is that you
 
 Minecraft &lt;username&gt; &lt;password&gt; &lt;server:port&gt;
 
-&lt;username&gt; is the username you wish to log in as
-&lt;password&gt; is your password. If this is set, the launcher will automatically start the game without waiting for you to press the button
+&lt;username&gt; is the username you wish to log in as<br>
+&lt;password&gt; is your password. If this is set, the launcher will automatically start the game without waiting for you to press the button<br>
 &lt;server:port&gt; is an ip to a minecraft server. If this is set, the game will automatically connect to that server once the game has started.
