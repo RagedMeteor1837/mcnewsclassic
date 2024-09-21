@@ -1,2 +1,2 @@
 Minecraft News Website Replacement<br>
-[olauncher.github.io](https://github.com/olauncher/olauncher.github.io)
+Fork of: [olauncher.github.io](https://github.com/olauncher/olauncher.github.io)
