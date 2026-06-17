@@ -1,0 +1,57 @@
+---
+layout: post
+title: Minecraft 26.2 - Chaos Cubed
+---
+
+
+Chaos Cubed has landed in Minecraft Java Edition! Explore a striking cave biome filled with bubbling sulfur pools, build with sulfur and cinnabar, and discover the sulfur cube's curious appetite for blocks! From bouncing and sliding to explosive surprises, this unpredictable mob unlocks exciting new ways to build, compete, and survive.<br><br>
+
+**CHANGELOG:**<br>
+***New Features:***<br>
+\* Added the Sulfur Cube mob<br>
+\* Added the Sulfur Caves biome<br>
+\* Added the Cinnabar and Sulfur block sets<br>
+\* Added the Sulfur Spike and Potent Sulfur block<br>
+\* Added a new Music Disc with the track "Bounce" by fingerspit<br>
+\* Added 5 new music tracks by fingerspit<br>
+\* Added the Friends List<br>
+\* Added new settings for Friends List in Online Options<br>
+\* Added experimental support for rendering the game through Vulkan<br>
+\* Added new option "Graphics API" in Video Settings<br>
+\* Added Swiss French, Chuvash, Gallo, Uzbek, and Võro language support to the game<br>
+
+***Changes:***<br>
+\* Tweaked various mobs hitbox, eye height, and rider positions<br>
+\* Hoglins are now considered hostile and do not spawn on Peaceful difficulty<br>
+\* Fixed baby Hoglin's and Zoglin's left ear texture so it's properly mirrored<br>
+\* Updated the Main Menu background panorama<br>
+\* When the game is overwhelmed with particles, instead of removing existing particles in flight, it will now randomly select for particles to render or not render to stay under the particle limit<br>
+\* As the host of a world, changing the game mode with F3 + F4 or with commands changes the default game mode of the world<br>
+\* Upgrading certain worlds from before 26.1 can now be faster<br>
+\* Respawning (as a spectator) in a hardcore world no longer turns off the spectators_generate_chunks game rule<br>
+\* Removed Touchscreen Mode<br>
+\* Removed Herobrine<br>
+
+***Technical Changes:***<br>
+\* The Data Pack version is now 107.1<br>
+\* The Resource Pack version is now 88.0<br>
+\* Profiling the game with Tracy (launching with --tracy) now includes GPU timings<br>
+\* Rendering now uses a reversed depth buffer, which helps with Z-fighting on most hardware<br>
+\* The fps F3 screen entry will now report which type of present mode is used (e.g. mailbox or fifo relaxed), as opposed to just vsync<br>
+\* The particle_render_stats now includes the counts of different particle groups (SQ for single quads, NR for no render, EG for elder guardians and IP for item pickup), as well as the total<br>
+\* A player's score will no longer be displayed in the player tab overlay if the player doesn't have the objective<br>
+\* Updates to telemetry<br>
+
+***Developer's Notes:***<br>
+\* We've fixed 103 bugs in this release<br>
+\* View the [full changelog on Minecraft.net](https://www.minecraft.net/article/minecraft-java-edition-26-2)<br><br>
+
+**GET THE RELEASE:**<br>
+***Cross-platform server jar:***<br>
+\* [Minecraft server jar](https://piston-data.mojang.com/v1/objects/823e2250d24b3ddac457a60c92a6a941943fcd6a/server.jar)<br>
+
+***Report bugs here:***<br>
+\* [Minecraft issue tracker!](https://bugs.mojang.com/projects/MC/summary)<br>
+
+***Want to give feedback?***<br>
+\* For any feedback and suggestions, head over to the [Feedback Site](https://feedback.minecraft.net).
